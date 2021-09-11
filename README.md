@@ -1,3 +1,3 @@
 # mynewrepository
 
-la la la
+test test
